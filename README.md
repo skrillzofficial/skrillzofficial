@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skrillzofficial, a front-end web developer
+- 👋 Hi, I’m @skrillzofficial, a front-end web developer that builds interactive interface for users
 - 👀 I’m interested in and passionate about building fast, responsive, and user-friendly interface website.
 - 🌱 I’m currently learning back-end development using node js
 - 💞️ I’m looking to collaborate on prrojects that brings solutions to users.
